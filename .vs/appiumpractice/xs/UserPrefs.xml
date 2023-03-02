@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{8FE74808-7772-4BF5-B051-D5B94AB3E15A}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tc1.cs">
+    <Files>
+      <File FileName="Tc1.cs" Line="45" Column="1" />
+      <File FileName="Tc2.cs" />
+      <File FileName="Tc3.cs" />
+      <File FileName="Tc4.cs" />
+      <File FileName="Tc5.cs" />
+      <File FileName="Utilities/Base.cs" />
+      <File FileName="properties.ts" />
+      <File FileName="Utilities/RnD.cs" />
+      <File FileName="Utilities/Startup.cs" />
+      <File FileName="Utilities/Program.cs" />
+      <File FileName="ConfigFiles/appsettingschrome.json" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="appiumpractice" expanded="True">
+            <Node name="appiumpractice" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="ConfigFiles" expanded="True" />
+              <Node name="Utilities" expanded="True" />
+              <Node name="Tc1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.appiumpractice PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

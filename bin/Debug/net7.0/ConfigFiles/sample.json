@@ -1,0 +1,12 @@
+﻿{
+  "PlatformType": "Android",
+  "PlatformName": "Android",
+  "DeviceName": "Pixel 4",
+  "OSVersion": "12.0",
+  "AppPackage": "com.android.chrome",
+  "AppActivity": "com.google.android.apps.chrome.Main"
+
+}
+
+
+
